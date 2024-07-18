@@ -1,0 +1,7 @@
+nav{
+    background-color: blueviolet;
+}
+.carousel-control-prev-icon,.carousel-control-next-icon{
+    background-color: red;
+    border-radius: 4px;
+}
